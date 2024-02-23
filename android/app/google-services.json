@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "70475374926",
+    "project_id": "blooddonationbank-50f9b",
+    "storage_bucket": "blooddonationbank-50f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70475374926:android:d5697910f5a80f58f4fe1f",
+        "android_client_info": {
+          "package_name": "com.bloodbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kxtFIPjhzAe1jtNm7z-Qq_czKEYCNJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70475374926:android:fb8b5b0172d4807cf4fe1f",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kxtFIPjhzAe1jtNm7z-Qq_czKEYCNJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70475374926:android:0d21b6da919001c5f4fe1f",
+        "android_client_info": {
+          "package_name": "com.example.bloodbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kxtFIPjhzAe1jtNm7z-Qq_czKEYCNJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
